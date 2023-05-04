@@ -1,105 +1,528 @@
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-lerna-debug.log*
-.pnpm-debug.log*
+OpenSSF (Open
+source security)
+security
+fundementals
 
-# Diagnostic reports (https://nodejs.org/api/report.html)
-report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
 
-# Dependency directories
-node_modules/
-jspm_packages/
 
-# Optional npm cache directory
-.npm
+Security
+fundamentals –
+What is it
 
-# Linux
-# temporary files which can be created if a process still has a handle open of a deleted file
-.fuse_hidden*
 
-# KDE directory preferences
-.directory
+Network security fundamentals are an entry-level security program that covers the
+fundamental concepts of network security. It enables students with their skills to be able
+to identify information security threats which reflect on the security posture of the
+organization and implement general security controls.
 
-# Linux trash folder which might appear on any partition or disk
-.Trash-*
 
-# .nfs files are created when an open file is removed but is still being accessed
-.nfs*
 
-# macOS
-# General
-.DS_Store
-.AppleDouble
-.LSOverride
+Security
+fundamentals –
+Why is it
+important
 
-# Icon must end with two \r
-Icon
+It helps to minimize
+security threats and keeps
+computer systems free
+from getting harmful
+viruses
 
-# Thumbnails
-._*
 
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
-.com.apple.timemachine.donotpresent
 
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
 
-# Windows
-# Windows thumbnail cache files
-Thumbs.db
-Thumbs.db:encryptable
-ehthumbs.db
-ehthumbs_vista.db
 
-# Dump file
-*.stackdump
+Different types of
+vulnerabilities
 
-# Folder config file
-[Dd]esktop.ini
+Vulnerabilities
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+System misconfigurations
 
-# Windows Installer files
-*.cab
-*.msi
-*.msix
-*.msm
-*.msp
+Out of date or unpatched software
 
-# Windows shortcuts
-*.lnk
+Missing or weak authorization credentials
 
-# Node 
-# Logs
-logs
-*.log
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-lerna-debug.log*
-.pnpm-debug.log*
+Venomous insider threats
 
-# Diagnostic reports (https://nodejs.org/api/report.html)
-report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+Missing or poor data encryption
 
-# Dependency directories
-node_modules/
-jspm_packages/
+Zero-day vulnerabilities
 
-# Optional npm cache directory
-.npm
+
+
+
+
+Different types of
+threats
+
+Malware
+
+Ransomware
+
+Distributed denial of service (DDoS) attacks
+
+Spam and Phishing
+
+Corporate account takeover
+
+Automated teller machine (ATM) crash out
+
+
+
+
+
+Why is cybersecurity important
+
+Cybersecurity is a rapid-evolving field that constantly
+poses new challenges for companies, government
+agencies, and also individuals.
+
+It is more common than ever that the data breaches and
+cyberattacks just show up. They’re no longer limited to
+large corporations with vast resources and there are also
+revealing information security practices. But today there
+are smaller businesses ands those operating online
+marketplace sites or other e-commerce services are also at
+a risk.
+
+The excellent accessibility of cloud computing also
+makes it a famous choice for many companies, which can
+access information anywhere, anytime, and from any
+location.
+
+
+
+Important cybersecurity
+fundamentals
+
+The IT security fundamentals skill path
+includes an understanding of computer
+hardware, software, and also network
+security. The cybersecurity fundamentals
+course trains anyone in developing and
+implementing security solutions for smaller,
+and larger organizations, protecting systems
+and network infrastructures.
+
+
+
+Four fundamentals of cybersecurity
+
+Device protection
+
+With the increase in cyber threats, individuals and other companies should be able to prioritize device protection. It is very
+crucial to protect devices that connect to the Wi-Fi using anti-virus software, it enables the lock and-erase options, activate
+two-factor authentications, and perform a regular automatic update of the system software, whether they are laptops, PCs,
+mobile phones, Al-based devices (Alexa, smart watches, etc.), iPads, tablets, or any device that connects to the Wi-Fi. Device
+protection will knowingly reduce the risk of attacks on the individuals and their devices regardless of their location.
+
+Securing online connection
+
+Once an individual device is connected online, the information that’s transmitted over the internet requires mores defenses.
+Furthermore, one should also use VPNs: Virtual Private Networks as they automatically encrypt internet traffic. By using a
+VPN, all online transactions are secured, including the user’s identity, location, browsing details, and also any sensitive
+information such as passwords and bank account details.
+
+Securing email communication
+
+Cybercriminals often use email to gather sensitive information about individuals or companies. It is highly recommended to
+encrypt emails to prevent sensitive data from getting accessed by anyone other than the intended recipient since they are able to
+mask the original information. In addition, email encryption often includes a one-time password authentication.
+
+Protecting and performing timely backups of files and documents
+
+Back ups falls into two categories
+
+
+
+
+Key concepts of
+cybersecurity
+
+Cybersecurity refers to protecting systems,
+networks, programs, devices, and data from
+cyber attacks using technologies, processes,
+and also controls. The basic cybersecurity
+concepts involve reducing cyber-attack risks
+and preventing unauthorized access to
+systems, networks, and also technologies.
+
+
+
+
+Five primary key concepts of cybersecurity
+
+Threat identification
+
+Keeping information safe
+
+Detecting intrusions and attacks
+
+Respond to intrusions and attacks
+
+Rebuild intrusion defenses and
+recover database security
+
+
+
+
+Basic
+terminologies of
+cybersecurity
+
+Cybersecurity basics for beginners (dummies) should always
+include terminologies. Knowing the cybersecurity basics
+terminology which will help them better understand the high-tech
+world. However, technological advances in cybersecurity are
+accompanied by the appearance of new terminology.
+
+
+
+
+
+Internet protocol
+(IP) address
+
+Hardware devices on a network are identified by IP addresses
+(internet protocol addresses). On a local network or over the
+internet, these devices can communicate with each other and
+transfer data. Numbers are separated by periods in each address. It
+comprises four digits with a range of 0 to 255. An IP address
+might look like this for instance: 192.159.1.98
+
+Internet computers, routers, and also websites need billions of
+unique IP addresses to be identified as one cannot repeat them.
+IPv6 is a new protocol which is designed to meet the day’s needs
+only when the system runs out of unique addresses in the future.
+
+
+
+
+VPN – Virtual Private Network
+
+Virtual Private Network, popularly known as VPN, allows
+users to maintain their privacy and anonymity while browsing
+the internet. VPNs make online activities virtually untraceable
+by masking the internet protocol (IP) address.
+
+In addition, to provide greater privacy than secured Wi-Fi
+hotspots, VPN services establish secure and also highly
+encrypted connections. With a VPN, online activity is hidden
+from cybercriminals, businesses, government, and also other
+snoopers who tend to lure users into clicking on anonymous
+links.
+
+
+Firewall
+
+A firewall monitors and filters the system’s incoming and
+outgoing network traffic as per a company’s security
+policies. Firewalls are a barrier between a private internal
+network and the internet at its primary level. A firewall
+blocks virtual traffic, which looks destructive, and allows
+secure and also a non-threatening traffic to flow
+uninterrupted.
+
+
+
+Domain Name server (DNS)
+
+DNS-Domain Name Server operates as the
+internet’s virtual phone book. As every browser
+on the internet is known by its IP address which
+allows users to be able to locate the device, the
+DNS converts the domain name into an IP
+address. For instance, the DNS converts the
+URL of the website www.mycompany123.com
+to a numerical IP address 204.0.6.42. Browsers
+send data to the origin servers on the content
+delivery network (CDN) using the IP address
+found by DNS servers.
+
+
+
+
+Encryption and Decryption
+
+Encryption is a process of converting plain
+text (readable message) into codes using an
+encryption algorithm known as ciphertext.
+While, Decryption is a process of
+converting the ciphertext into plain text.
+
+
+
+Encryption Key
+
+Data that is encrypted is decrypted and unscrambled using an encryption key. Keys
+are always meant to be unique and also complex to replicate since they are associated
+with specific encryption codes.
+
+In addition, there are approximately top 50 cybersecurity terms anyone can learn to
+become a pro in cybersecurity.
+
+
+
+Common types of cyberattacks
+
+The world today is weighed down by a variety of cyberattacks. However, our networks and systems are better protected if we
+know the types of cyberattacks. Here are the five most common types of cyberattacks.
+
+Malware attacks
+
+Virus: A virus is a type of malware that can infect all the files on the network, which is one of the most challenging
+types to eliminate. A computer virus can duplicate itself by inserting it malicious code into other programs.
+
+Worm: Have the power to infect the entire network quickly and require no end-user involvement as the worms can
+self-duplicate.
+
+Trojan: One of the most challenging types of malware to detect is Trojan malware, as it disguises itself as a
+legitimate program. As soon as the victim executes the malicious code and instructions, the malware can function all
+by itself. It is often used as an entry point for other forms of malware.
+
+Adware: End-users are served unwanted advertising (for instance, contact pop-ups) by adware.
+
+Spyware: The type of malware collects sensitive data like user ids and passwords without suspecting the end-user.
+
+Ransomware: Known as one of the most dangerous types of malware attack that infects the system, trying to encrypt
+files and holding them onto the encryption key until the victim pays a ransom. The ransom is mainly in the form of
+cryptocurrency with a P2P network. Increasingly, organizations are getting attacked by ransomware that costs them
+millions of dollars to be able to restore the vital system as they pay off the attackers to be able to recover them. There
+are several ransomware families, but Crypto Locker, Petya, and Locky are the most recognized ones.
+
+
+
+To be continued
+
+Password attack
+
+Password attacks are most commonly because the data breaches. To gain access to user
+accounts, the hacker attempts to bypass the authentication
+
+Phishing attack
+
+The hacker can steal the user’s data through phishing attacks, including login
+credentials, bank account details, and credit card numbers. Attackers use disguises to
+trick their victims into opening emails, instant messages, or text messages that show up
+from trusted entities. After the recipient clicks a hateful link, sensitive information is
+easily revealed, and malware gets installed.
+
+Clickjacking
+
+In clickjacking, that attacker usually uses some sort of an online ad to be able to lure the
+user. They are fooling the user into clicking the buttons or links that open to another
+page that installs malware for them into the user’s system.
+
+The adobe flash plugin settings page is one of the most outrageous examples of
+clickjacking. This page could also be loaded into an invisible iframe and enable an
+attacker to manipulate the security settings in Flash, allowing the computer’s
+microphone and camera to be used virtually by Flash animations.
+
+
+
+
+To be continued
+
+Cryptocurrency hijacking
+
+Cryptocurrency hijacking is a new cyber attack that grew rigorously
+after the cryptocurrency was introduced widely. Attackers use crypto
+jacking to mine cryptocurrency on someone else’s computer.
+
+During the attack, the attacker gains access to the user’s computer by
+infecting their system or operating them to click hateful links. In most
+of the cases, the users are unaware of this since the Crypto Mining
+code works only in the background, and the only indication that
+something is wrong is a delay in the execution.
+
+
+
+
+Cyber
+Security job
+roles
+
+Network Security Engineer
+
+Every organization needs a network security
+engineer to be able to ensure security systems
+are in the place to avoid and counter threats.
+In addition, Network security engineers are
+also supposed to be responsible for systems
+maintenance, vulnerability identification, and
+also automation of the system. The engineers
+also oversee the maintenance of routers,
+firewalls, switches, and even VPNs (virtual
+private networks).
+
+
+
+Cybersecurity
+analyst
+
+Security measures and controls are planned, they are implemented, and upgraded by a cybersecurity analyst. Security
+audits are conducted internally and externally to ensure that no loopholes or security lapses. In addition to conducting
+vulnerability testing, risk analyses, and even security assessments, a cybersecurity analyst is also responsible for managing
+the network. The analyst also trains colleagues in security awareness and even procedures to prevent security breaches.
+
+
+
+Chief information
+security officer
+(CISO)
+
+In an organization, the chief information security officer (CISO) ensures that all
+cybersecurity plans are aligned with the business’s vision, operations, and technologies.
+Security-related processes are also developed, implemented, and maintained by CISOs in
+collaboration with their staff.
+
+
+
+
+Ethical hackers
+
+Due to the intuitive knowledge and skills they posses, ethical hackers are a valuable
+resource for organizations. They tested and picked apart to reveal all the vulnerabilities.
+Additionally, ethical hackers provide a high-level cyberattack prevention information
+that is gaining momentum in the market.
+
+
+
+
+
+Cloud security
+engineer
+
+An organization’s cloud-based networks and systems are built and also maintained by a
+cloud security engineer. They manage the organization’s cloud computing environments,
+core infrastructure, and also software platforms. In addition to providing security
+recommendations, they also offer advise on designing and developing secure applications.
+
+
+
+Cybersecurity
+best practices
+
+Cyberattacks can be challenging, and keeping them up with
+cybercriminals who constantly seek out innovative methods of exposing
+security risks is very tough. However, one can still prevent cyberattacks in
+some other ways:
+
+
+
+Practices for cybersecurity
+
+1. Updating the software regularly
+
+A typical software update includes updated features, bug fixes, and also security updates. It is always a good idea to
+update your software to the latest version to ensure for your own safety.
+
+2. Making sure the computer is protected from the viruses and Malware
+
+You be able to entirely protected from malware as long as your connected to the internet. The vulnerabilities of your
+computer will be significantly reduced if you install an anti-virus program and at least one anti-malware program.
+
+3. Set up 2-factor authentication
+
+In addition, web security is strengthened by two-factor authentication because it eliminates the risk of compromised
+password immediately. Two-factor authentication is now available on several platforms to keep your accounts safe.
+
+4. Protect your connections with a VPN
+
+Use a virtual private network (VPN) for a more secure web. Even your internet service provider won’t be able to have a
+glimpse of your confidential information because VPN will encrypt the connection.
+
+5. Being careful when clicking on links
+
+Whenever, you click on random hyperlink messages, we need to ensure that you double-click their validity since links can
+easily be masked as something they are not.
+
+6. Ensure that Bluetooth is disabled when not in use
+
+Hackers can be able to steal your personal information via Bluetooth if their devices are on. If you aren’t using Bluetooth,
+then please do turn it off.
+
+7. Delete adware on your computer
+
+Users will receive more targeted ads via adware as it is collecting information about the user. To maintain the privacy, the
+user should keep their computer free of adware and install an ad blocker.
+
+
+
+
+To be continued
+
+Upgrade your security system
+
+Make sure that you invest in a good security system and high-upgrades when they are available. Investing in
+high-grade security is way better than paying a huge amount for security breaches.
+
+9. Virus scan external storage devices
+
+In addition, to internal storage devices, external storage devices can also be unprotected to malware. Infected
+external devices can also spread malware to the user’s computer if they connect them. Therefore, before accessing
+the external devices, scan the device to ensure that they are malware-free.
+
+10. Ensure critical data is backed up
+
+Sensitive information cane be lost as a result of security breaches. Highly advisable to take back up of your critical
+data to the cloud or a local storage device frequently to ensure that you are prepared to restore it in the event of a
+loss. In addition, to ensure that you store the sensitive files with the password protected system.
+
+11. Cybersecurity certification
+
+In addition, in having a bachelor’s degree in computer science, most cybersecurity professionals also need to have
+certifications that are able to prove their knowledge of best practices. From entry-level to advanced, hundreds of
+certifications are available. Therefore, finding a certificate that will give you a competive advantage is important
+before you spend your money, and time on it.
+
+
+
+
+
+The following are the top three
+cybersecurity certifications that
+offer best practices in the
+industry:
+
+
+1. Certified information systems security professionals (CISSP)
+
+Undoubtedly, CISSP certification is one of the most sought-after identifications in the
+cybersecurity industry, awarded by the cybersecurity professional organization (ISC)2.
+CISSP certification shows you are knowledgeable about IT security and are capable of
+designing, implementing, monitoring, and also maintaining cybersecurity programs.
+
+2. ISACA CSX cybersecurity fundamentals certificate
+
+With the ISACA cybersecurity fundamentals certificate, individuals can also learn
+advanced technology, and also develop their best skills. In addition, the course allows
+you to demonstrate real-life skills and experience through CSX’s performance-based
+certification and certificate programs.
+
+CISM (Certified information security manager) and CISA (Certified information
+systems auditor) grant intermediate to advanced identifications and are among the
+long-running ISACA certifications in the security industry.
+
+3. Certified Ethical Hacker (CEH)
+
+This involves lawfully hacking organizations to be able to find vulnerabilities before
+malicious players do, a practice known as ethical hacking, also known as white hat
+hacking, penetration testing, or red teams. EC-Council offers this certification as part of
+CEH program.
+
+
+
+
+
+
+Conclusion
+
+In conclusion, businesses of all sizes are becoming
+increasingly concerned about cybersecurity, which is
+rapidly growing field. While cyberattacks may seem like
+science fiction movies, the reality is that they are trying to
+become more common. Moreover, cybercrimes will inly
+increase over the next few years. A cybersecurity breach
+can help anywhere.
