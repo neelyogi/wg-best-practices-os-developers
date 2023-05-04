@@ -1,211 +1,327 @@
-# Best Practices for Open Source Developers
+OPEN-SOURCE SECURITY
+TOOLS
 
-[![GitHub Super-Linter](https://github.com/ossf/wg-best-practices-os-developers/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
-Anyone is welcome to join our open discussions related to the group's mission and charter.
+PASSWORD MANAGERS
 
-## Objective
+These are usually encrypted digital vaults that are developed
+to store secure password login information which is used for
+accessing apps and accounts on mobile devices, websites, and
+also other devices.
 
-Our objective is to provide open source developers with best practices recommendations, and with an easy way to learn and apply them.
+Aside from keeping our identity, credentials, and sensitive data
+safe, the best password manager generator that is able to
+create such strong, and unique passwords and ensure that
+users aren’t using the same password in so many different
+places (password generation really comes in handy when users
+are unable to come up with yet a matchless password on the
+fly for the latest must-have iOS app).
 
-Unlike other existing best practices list, we want it to be widely distributed to open source developers and community-sourced. And we want these practices to stick, thanks to an effective learning platform.
+Just looking at the phishing attacks, it’s easy to understand
+why having a matchless password for each location can go a
+long way in protecting you – if a password is stolen, then it
+means that it is matchless, and it also cannot be used on other
+sites. We are basically using multiple passwords to create our
+own security features.
 
-## Vision
 
-Our vision is to make it easy for developers to adopt these best practices, thanks to:
 
-- _Identifying_ good practices, requirements, and tools that help open source developers create and maintain more secure software
-- Helping maintainers _Learn_ to write secure software
-- Provide tools to help developers _Adopt_ these good practices into their daily work
+Here are a few lists of some open-source password managers
 
-<img align="top" src="https://github.com/ossf/wg-best-practices-os-developers/blob/main/img/OpenSSF%20Dev%20Best%20Practices%20Projects%20Relations.png">
+KeePass
 
-## Scope
+NordPass
 
-The Developer Best Practices group wants to help identify and curate an accessible [inventory](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/inventory.md) of best practices
+Dashlane
 
-- Prioritized according to ROI for open source developers
-- Categorized per technology, language, framework
-- Community-curated
+RoboForm
 
-Help build a community
+LastPass
 
-- Program to attract open source contributors and incentivize them to use and contribute to the inventory
 
-Supply a Learning platform
--Any free course can be integrated into the platform
 
-- The learner can follow a track, track their progress and get badges
-- A suite of exercises are available for each best practice of the inventory
 
-## Current Work
 
-Our work is organized into several discrete-yet-related projects that help us achieve our goals:
 
-- Concise guides for (1) developing software and (2) evaluating OSS (sandbox)
+PENETRATION TESTING TOOLS
 
-  - [Concise Guide for Developing More Secure Software](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/Concise-Guide-for-Developing-More-Secure-Software.md#readme)
-  - [Concise Guide for Evaluating Open Source Software](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/Concise-Guide-for-Evaluating-Open-Source-Software.md#readme)
+When it comes to the network security game these
+free, and open-source cybersecurity tools are some
+of the most valuable tools around. The process is
+known in common terms as pen-testing.
 
-- _Common Requirement Enumeration (CRE) Project_ - (incubating) <https://www.opencre.org/>
+Computer security experts, also known as white
+hackers are using these types of tools to be able to
+detect , and also take advantage of security
+vulnerabilities in a computer application.
 
-  - Purpose - (Identify) Identify similar requirements in different specifications
+You could actually say that penetration testing is
+much like hiring security consultants to attempt a
+security attack on a secure facility to find out how
+real gangsters might go about doing the actual thing.
+On the market, there are a few good free tools.
 
-- _Secure Software Development Fundamentals_ (online course) - <https://openssf.org/training/courses/> and <https://github.com/ossf/secure-sw-dev-fundamentals>
-  - Purpose - (Learn) Teach software developers fundamentals of developing secure software
-- _SKF - Security Knowledge Framework_ - <https://www.securityknowledgeframework.org/>
-  - Purpose - (Identify/Adopt/Learn) Learn to integrate security by design in your web application
-- _OpenSSF Best Practices Badge_ (formerly CII Best Practices badge) - <https://bestpractices.coreinfrastructure.org/> and <https://github.com/coreinfrastructure/best-practices-badge>
-  - Purpose - (Identify/Adopt) Identifies FLOSS best practices & implements a badging system for those practices,
-- _OpenSSF Scorecard Project_ - <https://github.com/ossf/scorecard>
-  - Purpose - (Adopt) Automate analysis and trust decisions on the security posture of open source projects.
-- _Great MFA Distribution Project_ - (incubating) <https://github.com/ossf/great-mfa-project>
-  - Distribute MFA tokens to OSS developers and best practices on how to easily use them
-- [_Compiler Options Hardening Guide for C and C++_](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/Compiler_Hardening_Guides/Compiler-Options-Hardening-Guide-for-C-and-C%2B%2B.md) (incubating)
-  - Recommended compiler option flags for C/C++ programs, especially warning and hardening flags, for developers & distributionss.
-You can also see our older work, [Recommended compiler option flags for C/C++ programs](https://docs.google.com/document/d/1SslnJuqbFUyTFnhzkhC_Q3PPGZ1zrG89COrS6LV6pz4/edit#heading=h.b3casmpemf1b).
-- _Interactive artwork_ - (incubating) <https://github.com/blabla1337/wg-best-practices-os-developers/tree/main/infinity2>
-  - Place where we want to guide developers in what stage they can use what type of tooling or approach. We have tons of great tools and materials but hard to find for devs, using this page and interactive loop we want to guide them to find the right stuff.
-- _Existing Guidelines for Developing and Distributing Secure Software_ [GitHub Repo](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/Existing%20Guidelines%20for%20Developing%20and%20Distributing%20Secure%20Software.md)
-  - Purpose - (Identify) - Highlight documentation and training materials that educate OSS developers on good secure coding practices
-- _Package Manager Best Practices_ - (incubating) - <https://github.com/ossf/package-manager-best-practices>
 
-  - Purpose - (Identify/Learn) Collect and document security best practices for projects using various package managers.
 
-- [npm Best Practices Guide](https://github.com/ossf/package-manager-best-practices/blob/main/published/npm.md) - This document aims to be a one-time stop explaining the security supply-chain best practices when using npm's package manager.
+HIDS TOOLS
 
-  - Purpose - (Identify/Learn) Collect and document security best practices for projects npm.
+HIDS stands for Host-based intrusion detection
+system. HIDS basically represents an application
+monitoring a computer or network for various
+suspicious activities.
 
-- _Education SIG_ - (incubating) - <https://github.com/ossf/education/>
+Most of the activities that are monitored will be
+included bit it many not be limited to intrusions that
+are created by external actors and also by a misuse
+of resources or data internally.
 
-  - Purpose - (Learn) To provide industry standard secure software development training materials that will educate learners of all levels and backgrounds on how to create, compose, deploy, and maintain software securely using best practices in cyber and application security.
+HIDS work by logging the suspicious activity, and
+also reporting it to the administrators managing the
+devices or networks.
 
-We welcome contributions, suggestions and updates to our projects. To contribute please fill in an [issue](https://github.com/ossf/wg-best-practices-os-developers/issues) or create a [pull request](https://github.com/ossf/wg-best-practices-os-developers/pulls).
 
-## Related Activities
 
-There are many great projects both within and outside the Foundation that compliment and intersect our work here. Some other great projects/resources to explore:
+THREAT DETECTION SECURITY TOOLS
 
-- _SLSA Supply-chain Levels for Software Artifacts_ - <https://github.com/slsa-framework/slsa>
-  - Purpose - A security framework from source to service, giving anyone working with software a common language for increasing levels of software security and supply chain integrity
+A lot of cybersecurity practices can be covered by a
+term such as threat protection. Now, we need to
+take into account that every step we make into
+cybersecurity matters. It comes together as a whole
+from the policies you adapt to the way we educate
+employees, and all the way through to the solutions
+you integrate to defend your system, which can be
+paid, free or open source cybersecurity tools.
 
-## Quick Start
 
-### Areas that need contributions
 
-- Any topics related to helping developers more easily make more secure software or consumers to better understand the security qualities of the software they wish to ingest
+InfraGard
 
-### Where to file issues
+DHS CISA Automated Indicator Sharing
 
-- Issues can be reviewed and filed [here](https://github.com/ossf/wg-best-practices-os-developers/issues)
+Abuse.ch
+
+AlienVault
+
+BlockList.de
+
+
+
+
+SECURITY ONION
+
+Description of security onion
+
+The first tool on the list is an open-source Linux distribution that targets
+security monitoring. It comes with a host of built-in tools (for example.,
+Snort, Suricata) designed to help you monitor a user's environment for
+security-relevant activity at multiple levels of the stack. One of the
+advantages that using the distribution has, over just installing and using
+the underlying toolset directly, is that Security Onion a term called
+helpful setup wizard. Even if the organization doesn’t have an army of
+security operations staff, the tool allows users to still stand up a
+full-featured monitoring solution in relatively little time. Also, because
+campus environments can be both wide, and workable (for example as
+learning-oriented environments might be set up for particular purposes),
+using this tool has the dominance of a “drop-in”, short-term monitoring
+solution for a momentary environment without incurring additional
+hardware or licensing costs.
+
 
+
+CUCKOO SANDBOX
 
-## Get Involved
+Description of Cuckoo Sandbox
 
-Anyone is welcome to join our open discussions related to the group's mission and charter.
-
-- [2023 Meeting Notes](https://docs.google.com/document/d/1x-fMIt6ZIV6SM-M29xEVKeB505GbDzSIVXg-8uF_FQU/edit#)
-- [2022 Meeting Minutes](https://docs.google.com/document/d/1ttqkcYPmYZyqvtkaHs92bx2UeVUiXDhuzP-0WbP11Fw/edit#)
-- [Historic Group Notes 1](https://github.com/ossf/wg-best-practices-oss-developers/blob/main/meeting-minutes.md)
-- [Historic Notes 2021](https://docs.google.com/document/d/1sJhaZxG_9Wb2Sg6a4KxqnIvo_to5OkhMkbBk_7UqtEc/edit#heading=h.cbmnhvjm63mj)
-- [Recent WG report to the TAC on activities and project statuses](https://docs.google.com/presentation/d/1n_zaIdwaG7Tv1UA0ZPnxl0Z7sFenKt7aB2A1vfMtgjc/edit#slide=id.g13dc63f7ee3_0_114)
-- [Discussions](https://github.com/ossf/wg-best-practices-os-developers/discussions)
-- Official communications occur on the Best Practices [mailing list](https://lists.openssf.org/g/openssf-wg-best-practices)
-- [Manage your subscriptions to Open SSF mailing lists](https://lists.openssf.org/g/main/subgroups)
-- Join the conversation on [Slack](https://openssf.slack.com/archives/C01AHCRP8BT)
+One of the matchless things about higher ed is that there’s a
+enormous percentage of students who, well let’s just say have a
+love of hijinks. Therefore, suspicious files – many of which may not
+match a known malware signature – may rise and require further
+investigation. Sometimes IT departments may just need to answer
+the question called “Is this thing malware or not?” One of the
+easiest to do this is to run it in a sandbox and see if it causes
+adverse effects. The Cuckoo Sandbox helps do exactly that. It
+provides a sandbox environment where users can open a suspicious
+looking file to be able to see what it does: files it opens, network
+connections it makes, resources it allocates. Really squeezing the
+most value out of the tool will indeed require technical acumen that
+smaller institutions may not have at their disposal. However, using
+this tool just top see whether a given program is malware or not is
+quick and relatively straightforward.
 
+DOCKER
 
-## Meeting times
+Description of Docker
 
-Every 2 weeks, Tuesday 10am EST. The meeting invite is available on the [public OSSF calendar](https://calendar.google.com/calendar?cid=czYzdm9lZmhwNWk5cGZsdGI1cTY3bmdwZXNAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+Docker is included in the security tools list even though that it is not a tool
+primarily concentrated on security alone. The reason it is included is
+because of the potential security benefit that can arise through using it. The
+Docker Community Edition (Docker CE) is a tool that allows users to
+create “containers” – lightweight, portable modules within which
+applications can run. Just like with OS virtualization, multiple applications
+living in different containers can be running next to each other on the same
+container engine runtime. How is this useful for security practitioners?
+There are a few ways. Aside, from being a way to help better manage
+application deployment (always a good thing, and also valuable from a
+security point of view), it also can help make accessible other security tools
+that might have been overly complex to install and get running without it
+(in fact, you’ll see an example of this next). There’s not enough space in a
+short article like this one for a full background on how to use Docker to
+get maximum value in the shop but serve it to say that it’s a tool worth
+getting to know.
 
+OPENVAS
 
-| Effort       |    Meeting Times                                         |    Meeting Notes/Agenda    |       Git Repo        | Slack Channel | Mailing List |
-| :----------: | :------------------------------------------------------: | :------------------------: | :-------------------: | :-----------: | :----------: |
-|   Full WG    | Every 2nd Tuesday 7:00a PT/10:00a ET/1400 UTC   | [Meeting Notes](https://docs.google.com/document/d/1x-fMIt6ZIV6SM-M29xEVKeB505GbDzSIVXg-8uF_FQU/edit#heading=h.o9i5dy8de481)           |  [Git Repo](https://github.com/ossf/wg-best-practices-os-developers) | [Slack](https://openssf.slack.com/archives/C01AHCRP8BT) | [Mailing List](https://lists.openssf.org/g/openssf-wg-best-practices) |
-| Concise Guides - C/C++ Compiler Hardening Options | Occurs every 2nd Wednesday 6:00a PT/9:00a ET/1400 UTC | [Meeting Notes](https://docs.google.com/document/d/1x-fMIt6ZIV6SM-M29xEVKeB505GbDzSIVXg-8uF_FQU/edit#heading=h.o9i5dy8de481)           |  [Git Repo](https://github.com/ossf/wg-best-practices-os-developers/blob/main/docs/Compiler_Hardening_Guides/Compiler-Options-Hardening-Guide-for-C-and-C%2B%2B.md) | [Slack](https://openssf.slack.com/archives/C01AHCRP8BT) | [Mailing List](https://lists.openssf.org/g/openssf-wg-best-practices) | [Mailing List](https://lists.openssf.org/g/openssf-wg-best-practices) |
-| Concise Guides - Source Code Management Best Practices | Occurs every 2nd Thursday 7:00a PT/10:00a ET/1400 UTC  | [Meeting Notes](https://docs.google.com/document/d/1x-fMIt6ZIV6SM-M29xEVKeB505GbDzSIVXg-8uF_FQU/edit#heading=h.o9i5dy8de481)           |  [Git Repo](https://github.com/ossf/wg-best-practices-os-developers/tree/main/docs/SCM-BestPractices) | [Slack](https://openssf.slack.com/archives/C01AHCRP8BT) | [Mailing List](https://lists.openssf.org/g/openssf-wg-best-practices) | [Mailing List](https://lists.openssf.org/g/openssf-wg-best-practices) |
-|   EDU.SIG   | Occurs every 2nd Wednesday 6:00a PT/9:00a ET/1400 UTC   | [Meeting Notes](https://docs.google.com/document/d/18GBwvQJNcPnwxKrnp43DhBZC7K1JM0xzGkDoKh5mu8U/edit#heading=h.9m0zi4b0wnne)                       |  [Git Repo](https://github.com/ossf/education) | [Slack](https://openssf.slack.com/archives/C03FW3YGXH9) | [Mailing List](https://lists.openssf.org/g/openssf-sig-education) |
-|   EDU.SIG - DEI Subcommittee  | Occurs every 2nd Tuesday 8:00a PT/11:00a ET/1600 UTC   | [Meeting Notes](https://docs.google.com/document/d/1LdQ07veOcJ596Vo3aQZCFy-HHeEO7cHnbE_6u_uq9Fk/edit#heading=h.9m0zi4b0wnne)                       |  [Git Repo](https://github.com/ossf/education) | [Slack](https://openssf.slack.com/archives/C04FMD5HSC9) | [Mailing List](https://lists.openssf.org/g/openssf-sig-education-dei) |
-|  Memory Safety SIG   | Every 2nd Thursday 10:00a PT/1:00p ET/1500 UTC           | [Meeting Notes](https://docs.google.com/document/d/1Ehpp1UmAIqMs0ZdKr15sd5MS48OeaGKB9H40htVehs4/edit?usp=sharing)                       |  [Git Repo](https://github.com/ossf/Memory-Safety) | [Slack](https://openssf.slack.com/archives/C03G8NZH58R) | [Mailing List](https://lists.openssf.org/g/openssf-sig-memory-safety) |
-|  Scorecard  | Occurs every 2nd Thursday 1:00p PT/4:00p ET/1800 UTC    | [Meeting Notes](https://docs.google.com/document/d/1dB2U7_qZpNW96vtuoG7ShmgKXzIg6R5XT5Tc-0yz6kE/edit%23&sa=D&source=calendar&usd=2&usg=AOvVaw0dlm9r67uXVvpla6TQtT28 )           |  [Git Repo](https://github.com/ossf/scorecard) | [Slack](https://openssf.slack.com/archives/C0235AR8N2C ) | [Mailing List]( ) |
-|  Security Knowledge Framework -  SKF  | TBD   | [Meeting Notes]( )           |  [Git Repo]( ) | [Slack](https://openssf.slack.com/archives/C04B7EZLTM1) | [Mailing List]( ) |
+Description of OpenVAS
 
+In the past, it was undecided that suggesting to educational
+institutions the OpenVAS open-source vulnerability scanner.
+Why? Not because it isn’t a great tool. In the contrary, it’s
+been one of the go-to options since it forked from Nessus
+back in the day. The reason with that being is because,
+historically, installing it and getting into an operational state
+can be complicated. Nowadays though, because of
+containerization environments like Docker (take a look at the
+previous slide), you can stand up a fully functional instance (or
+nearly so) with just one command. For those organizations
+that need to boost their vulnerability assessment capability in
+a touch (and who doesn’t?), using OpenVAS – particularly
+pre-packaged containers – is well within the reach of even
+those organizations with limited technical staff.
 
 
+NIPAP
 
+Description of NIPAP
 
-## Governance
+What do campuses have a lot of? IP address space. Keeping
+track of what IPs are associated with what URLs in DNS,
+what ranges are assigned to what pools in DHCP, what static
+addresses are assigned to what devices, and so on can be
+logistical nightmare when one is talking about a network
+landscape as complex, large, and fluid as a typical campus.
+Keeping track of this very critical for security as well as (of
+course) for technical management and operations purposes.
+Relatively simple to position and use, the open-source IP
+addresses management tool NIPAP (Neat IP Address Planner)
+can help bring order to the chaos by helping you keep track
+of what’s assigned where, and it can help with subnetting, and
+otherwise help replace the difficult Excel spreadsheets in use
+now in nonexistence of a planning tool for this purpose.
 
-The [CHARTER.md](CHARTER.md) outlines the scope and governance of our group activities.
 
-- Lead - [Christopher "CRob" Robinson](https://github.com/SecurityCRob)
-- Co-Lead - [Xavier René-Corail](https://github.com/xcorail)
-- "*" denotes a project/SIG lead
 
-### Project Maintainers
+INTRODUCTION
 
-- [Christopher "CRob" Robinson*, Intel](https://github.com/SecurityCRob)
-- [Xavier René-Corail, GitHub](https://github.com/xcorail)
-- [David A Wheeler, LF/OSSF](https://github.com/david-a-wheeler)
-- [Dave Russo*, Red Hat](https://github.com/drusso-rh)
+The OWASP’s (Open Web Application Security Project) operation is to help the world improve the security of its
+software. One of the best ways OWASP can do that to help Open-Source developers to improve the software they are
+creating that everyone else relies on. By itself, the following lists of automated vulnerability detection tools that are free
+for open-source projects that have been gathered together here to raise awareness of their availabilities.
 
-### Project Collaborators
+It would be best to encourage Open-Source projects to use the following types of tools to be able to improve the security
+and quality of their code:
 
-- [Christine Abernathy*, F5](https://github.com/caabernathy)
-- [Daniel Applequist*, Snyk](https://github.com/Torgo)
-- Avishay Balter, Microsoft
-- [Jeffrey Borek, IBM](https://github.com/jtborek)
-- [VM Brasseur, WiPro](https://github.com/)
-- [Glenn ten Cate*, OWASP/SKF](https://github.com/)
-- [Judy Kelly, Red Hat](https://github.com/judyobrienie)
-- [Georg Kunz, Ericsson](https://github.com/gkunz)
-- [Arnaud J Le Hors, IBM](https://github.com/lehors)
-- [Matt Rutkowski, IBM](https://github.com/mrutkows)
-- [Marta Rybczynska, Syslinbit](https://github.com/mrybczyn)
-- Yotam Perkal, Rezilion
-- [Eric Tice, WiPro](https://github.com/)
-- [Randall T. Vasquez*, Gentoo/Homebrew](https://github.com/ran-dall)
-- [Jay White, Microsoft](https://github.com/camaleon2016)
+Static Application Security Testing (SAST) Tools
 
-### Project Contributors
+Dynamic Application Security Testing (DAST) Tools (primarily meant for web apps)
 
-- Aeva Black, Microsoft
-- Jory Burson, Linux Foundation
-- Rosaria Carr, Indeed
-- Riccardo ten Cate, SKF
-- Spyros Gasteratos*, OWASP/CRE
-- Sami Guirguis, TELUS
-- Jonathan Leitschuh*, Dan Kaminsky Fellowship @ Human Security
-- Jeff Mendoza, Google
-- Kara Olive, Google
-- Laurent Simon*, Google/Scorecard
-- Azeem Shaikh*, Google/Scorecard
-- Harimohan Rajamohanan, Wipro
-- Ixchel Ruiz, jfrog
-- Patricia Tarro, Dell
-- [Thomas Nyman*, Ericsson](https://github.com/thomasnyman)
-- Noam Dotan, Legit Security
+Interactive Application Security Testing (IAST) Tools – (primarily meant for web apps and web APIs)
 
-## Licenses
+Keeping Open-Source libraries up to date (this is meant to avoid using components with unknown vulnerabilities
+(OWASP Top 10-2017 A9))
 
-Unless otherwise specifically noted, software released by this working
-group is released under the [Apache 2.0 license](LICENSES/Apache-2.0.txt),
-and documentation is released under the
-[CC-BY-4.0 license](LICENSES/CC-BY-4.0.txt).
-Formal specifications would be licensed under the
-[Community Specification License](https://github.com/CommunitySpecification/1.0)
-(though at this time we don't have any examples of that).
+Static code quality tools
 
-## Charter
 
-Like all OpenSSF working groups, this working group reports to the
-[OpenSSF Technical Advisory Council (TAC)](https://github.com/ossf/tac).
-For more organizational information, see the
-[OpenSSF Charter](https://openssf.org/about/charter/).
 
-## Antitrust Policy Notice
 
-Linux Foundation meetings involve participation by industry competitors, and it is the intention of the Linux Foundation to conduct all of its activities in accordance with applicable antitrust and competition laws. It is therefore extremely important that attendees adhere to meeting agendas, and be aware of, and not participate in, any activities that are prohibited under applicable US state, federal or foreign antitrust and competition laws.
+FREE FOR OPEN-SOURCE TOOLS
 
-Examples of types of actions that are prohibited at Linux Foundation meetings and in connection with Linux Foundation activities are described in the Linux Foundation Antitrust Policy available at <http://www.linuxfoundation.org/antitrust-policy>. If you have questions about these matters, please contact your company counsel, or if you are a member of the Linux Foundation, feel free to contact Andrew Updegrove of the firm of Gesmer Updegrove LLP, which provides legal counsel to the Linux Foundation.
+Tools that are free for open-source projects in each
+of the above categories are all listed one by one in
+the upcoming slides.
+
+
+
+
+SAST TOOLS
+
+OWASP already keeps a page of known SAST tools:
+Source Code Analysis Tools, which includes a list of
+those that are “Open-Source of Free Tools of this
+type”. Any such tools could certainly be used.
+
+GitHub code scanning – It is free for open static
+analysis service that uses GitHub Actions and
+CodeQL to scan public sources on GitHub. This all
+supports C/C++, C#, Ruby (beta), Java,
+JavaScript/TypeScript, Python, and Go (click this link
+https://codeql.github.com/docs/codeql-overview/sup
+ported-languages-and-frameworks/ for more info)
+
+
+
+
+DAST TOOLS
+
+If your project has a web application component, then it is
+recommended that running automated scans against it to look
+for vulnerabilities. OWASP maintains a page of known DAST
+tools, and the License column on this page indicates which of
+those tools have free capabilities. The most primary
+recommendation is to use one of these listed below:
+
+OWASP ZAP – This is a full featured free and open source
+DAST tool that includes both automated scanning for
+vulnerabilities and tools to assist expert manual web app pen
+testing.
+
+Stack Hawk - 2 Stack Hawk is commercially used to support
+DAST tool built on OWASP ZAP and it is optimized to run in
+CI/CD (almost every CI is supported) to test web applications
+during development and in CI/CD. The Stack Hawk platform
+allows a user to manage findings over time in different
+environments.
+
+
+
+
+IAST TOOLS
+
+IAST tools are normally pitched to analyze web
+applications and Web APIs, but that is vendor specific.
+There may be IAST products that can perform good
+security analysis on non-web applications as well.
+
+Contrast Community edition (CE) – Fully featured
+version for 1 app and up to 5 users (some Enterprise
+features disabled). Contrast CE supports Java and
+also .NET only.
+
+API web scanners
+
+For tools which are API specific users should refer to
+the OWASP community API security tools page.
+
+
+
+
+CODE QUALITY TOOLS
+
+Quality has a significant connection to security. As
+such, it is recommended that open-source projects also
+consider using good code quality tools. There are a few
+tips that we should be aware of, and that are:
+
+Spot Bugs – Open-source code quality tool for Java
+
+This is the active fork for Find Bugs, so if users use Find
+Bugs, they should switch to Spot Bugs
+
+Spot Bug users need to add the Find Sec Bugs plugin
+(https://find-sec-bugs.github.io/) to their Spot Bugs
+setup, as it is meaningly improving on the very basic
+security checking native to Spot Bugs.
+
+
+
+Hope you found all this info useful!
