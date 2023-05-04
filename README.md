@@ -2,114 +2,263 @@ OPEN-SOURCE SECURITY
 TOOLS
 
 
-PASSWORD MANAGERS
 
-These are usually encrypted digital vaults that are developed
-to store secure password login information which is used for
-accessing apps and accounts on mobile devices, websites, and
-also other devices.
+WHAT ARE OPEN-SOURCE TOOLS
 
-Aside from keeping our identity, credentials, and sensitive data
-safe, the best password manager generator that is able to
-create such strong, and unique passwords and ensure that
-users aren’t using the same password in so many different
-places (password generation really comes in handy when users
-are unable to come up with yet a matchless password on the
-fly for the latest must-have iOS app).
+Tools that are free for open-source projects in each
+of the above categories are all listed one by one in
+the upcoming slides.
 
-Just looking at the phishing attacks, it’s easy to understand
-why having a matchless password for each location can go a
-long way in protecting you – if a password is stolen, then it
-means that it is matchless, and it also cannot be used on other
-sites. We are basically using multiple passwords to create our
-own security features.
-
-
-
-Here are a few lists of some open-source password managers
-
-KeePass
-
-NordPass
-
-Dashlane
-
-RoboForm
-
-LastPass
+Open source Security tools are free resources used
+for security testing purposes
 
 
 
 
+REQUIREMENT FOR SECURITY TESTING
 
+What is security testing or penetration testing
+and why they are needed?
 
-PENETRATION TESTING TOOLS
-
-When it comes to the network security game these
-free, and open-source cybersecurity tools are some
-of the most valuable tools around. The process is
-known in common terms as pen-testing.
+Security testing also known as penetration testing is
+a a pro-active way of testing the security of the
+organization’s network, web, applications and all IT
+resources.
 
 Computer security experts, also known as white
 hackers are using these types of tools to be able to
-detect , and also take advantage of security
-vulnerabilities in a computer application.
+detect , and address security vulnerabilities in a
+computer application.
 
 You could actually say that penetration testing is
 much like hiring security consultants to attempt a
 security attack on a secure facility to find out how
-real gangsters might go about doing the actual thing.
-On the market, there are a few good free tools.
-
-
-
-HIDS TOOLS
-
-HIDS stands for Host-based intrusion detection
-system. HIDS basically represents an application
-monitoring a computer or network for various
-suspicious activities.
-
-Most of the activities that are monitored will be
-included bit it many not be limited to intrusions that
-are created by external actors and also by a misuse
-of resources or data internally.
-
-HIDS work by logging the suspicious activity, and
-also reporting it to the administrators managing the
-devices or networks.
-
-
-
-THREAT DETECTION SECURITY TOOLS
-
-A lot of cybersecurity practices can be covered by a
-term such as threat protection. Now, we need to
-take into account that every step we make into
-cybersecurity matters. It comes together as a whole
-from the policies you adapt to the way we educate
-employees, and all the way through to the solutions
-you integrate to defend your system, which can be
-paid, free or open source cybersecurity tools.
-
-
-
-InfraGard
-
-DHS CISA Automated Indicator Sharing
-
-Abuse.ch
-
-AlienVault
-
-BlockList.de
+real hackers might go about doing the actual thing.
 
 
 
 
-SECURITY ONION
+TYPES OF OPEN-SOURCE CYBERSECURITY TOOLS FOR SECURITY
+TESTING
 
-Description of security onion
+
+Password protection tools
+
+Network scanning and security tools
+
+Web server security tools
+
+Code scanning tools
+
+DB Security tools
+
+Intrusion Detection tools
+
+Vulnerability assessment tools
+
+Security monitoring and logging tools
+
+OWASP tools
+
+
+PASSWORD MANAGERS
+
+
+What are password managers and why they are
+needed?
+
+These tools provide encrypted digital vaults that are
+developed to store secure password login information
+which is used for accessing apps and accounts on mobile
+devices, websites, and also other devices.
+
+Along with keeping identity, credentials, and sensitive
+data safe, the password manager can generate strong,
+and unique passwords and ensure that users aren’t using
+the same password in so many different places (password
+generation really comes in handy when users are unable
+to come up with yet a matchless password)
+
+Password managers offers to keep multiple passweord
+safe and reduces the password reset requests for IT
+support personnel
+
+
+Here are a few lists of some open-source password
+managers
+
+KeePass (OS)
+
+Passbolt (OS)
+
+Psono (OS)
+
+Password Safe (OS)
+
+Bitwarden (OS)
+
+
+
+
+WELL-KNOWN NETWORK SECURITY TESTING TOOLS
+
+Nmap
+
+For reconnaissance, this is the preferred opensource tool, it can quickly scan large networks and runs on all
+major OSes.
+
+Wireshark
+
+This is a popular network protocol analyzer that is supported on all the main OSes. It helps with live
+capture, decryption support and offline analysis for every key network protocol
+
+Jok3r
+
+Another framework for network infrastructure and web pen testing is Jok3r which is a collection of more
+than 50 open-source tools and scripts
+
+Legion
+
+Legion is an open source, easy-to-use, super-extensible and semi-automated network penetration testing
+
+
+
+
+WEB SERVER SECURITY SCANNING TOOLS
+
+A web application security scanner is a software which performs automatic black-box testing on a web application and identifies
+security vulnerabilities. There are plenty of tools, but listing some of the commonly used tools for web applications.
+
+Zed Attack Proxy
+
+OWASP's Zed Attack Proxy (ZAP) scans web applications for vulnerabilities..
+
+Nikto
+
+Nikto is an Open Source (GPL) web server scanner which performs comprehensive tests against web servers for multiple items, including testing for over
+6700 potentially dangerous files/programs, checks for outdated versions of servers, and version specific problems
+
+Wfuzz
+
+Developed in Python, Wfuzz is popularly used for brute-forcing web applications. The open-source security testing tool has no GUI interface but only
+command line
+
+Wapiti
+
+This is used to check web applications for security vulnerabilities, Wapiti performs black box testing. As it is a command-line application, it is important to
+have a knowledge of various commands used by Wapiti.
+
+W3af
+
+w3af is an open-source web application security scanner. The project provides a vulnerability scanner and exploitation tool for Web applications. It
+provides information about security vulnerabilities for use in penetration testing
+
+
+
+
+ADDITIONAL SECURITY TOOLS
+
+Code Scanning tools checks for the quality of the code and checks of security issues before it is deployed into the server
+
+SonarQube
+
+SonarQube is an open-source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews
+with static analysis of code to detect bugs and code smells on 29 programming
+
+Horusec
+
+It performs code scanning that will check if there is any vulnerability or security issue
+
+DB security tools checks for vulnerabilities with database servers.
+
+Sql
+
+SQLMap is a tool used for the automated exploitation of SQL injection vulnerabilities. We can use SQLMap to test websites and databases
+for vulnerabilities and exploit those vulnerabilities to take over the database.
+
+NoSQL
+
+NoSQLMap is an opensource Python tool designed to audit for as well as automate injection attacks and exploit default configuration
+weaknesses in NoSQL databases, as well as web applications using NoSQL in order to disclose data from the database. The current project
+goals are to provide a penetration testing tool to simplify attacks on MongoDB servers and web applications as well as proof of concept
+attacks to debunk the premise that NoSQL applications are impervious to SQL injection.
+
+
+
+
+INTRUSION DETECTION TOOLS – HIDS AND NIDS
+
+
+HIDS stands for Host-based intrusion detection system.
+HIDS basically represents an application monitoring a
+computer or network for various suspicious activities.
+
+HIDS work by logging the suspicious activity, and also
+reporting it to the administrators managing the devices or
+networks.
+
+OSSEC is short for Open Source Security Event Correlator.
+This established and reputable solution is a free and
+open-source host-based intrusion and one of the popular
+choices
+
+Wazuh is another open-source monitoring solution for
+integrity monitoring, incident response, and compliance.
+
+Opensource Tripwire is a free and open-source host-based
+detection system. The company offers a commercial solution
+too, but free version is also available
+
+Network-based IDS (NIDS), analyze network traffic for
+any intrusion and produce alerts to system administrators and
+network security engineers.
+
+NIDS complements HIDS to enforce detection–both
+signature-based and anomaly-based – and acts as a safeguard
+to monitor traffic going to and from your organization’s
+different network devices.
+
+Snort - Snort is a free and open-source network-based
+intrusion detection system maintained by Cisco Systems.
+
+Suricata - A network-based intrusion detection system which
+provides real-time intrusion detection and prevention
+capabilities in addition to features for monitoring network
+security.
+
+Zeek - Network Security Monitor is also free and
+open-source
+
+
+
+
+VULNERABILITY ASSESSMENT SCANNER - OPENVAS
+
+OpenVAS
+
+In the past, it was undecided that suggesting to educational
+institutions the OpenVAS open-source vulnerability scanner.
+Why? Not because it isn’t a great tool. In the contrary, it’s
+been one of the go-to options since it forked from Nessus
+back in the day. The reason with that being is because,
+historically, installing it and getting into an operational state
+can be complicated. Nowadays though, because of
+containerization environments like Docker (take a look at the
+previous slide), you can stand up a fully functional instance (or
+nearly so) with just one command. For those organizations
+that need to boost their vulnerability assessment capability in
+a touch (and who doesn’t?), using OpenVAS – particularly
+pre-packaged containers – is well within the reach of even
+those organizations with limited technical staff.
+
+
+
+MONITORING AND LOG MANAGEMENT - SECURITY ONION –
+
+Security Onion is a multi-purpose free
+and open source Linux distribution for
+intrusion detection, security monitoring,
+and log management.
 
 The first tool on the list is an open-source Linux distribution that targets
 security monitoring. It comes with a host of built-in tools (for example.,
@@ -128,89 +277,7 @@ hardware or licensing costs.
 
 
 
-CUCKOO SANDBOX
-
-Description of Cuckoo Sandbox
-
-One of the matchless things about higher ed is that there’s a
-enormous percentage of students who, well let’s just say have a
-love of hijinks. Therefore, suspicious files – many of which may not
-match a known malware signature – may rise and require further
-investigation. Sometimes IT departments may just need to answer
-the question called “Is this thing malware or not?” One of the
-easiest to do this is to run it in a sandbox and see if it causes
-adverse effects. The Cuckoo Sandbox helps do exactly that. It
-provides a sandbox environment where users can open a suspicious
-looking file to be able to see what it does: files it opens, network
-connections it makes, resources it allocates. Really squeezing the
-most value out of the tool will indeed require technical acumen that
-smaller institutions may not have at their disposal. However, using
-this tool just top see whether a given program is malware or not is
-quick and relatively straightforward.
-
-DOCKER
-
-Description of Docker
-
-Docker is included in the security tools list even though that it is not a tool
-primarily concentrated on security alone. The reason it is included is
-because of the potential security benefit that can arise through using it. The
-Docker Community Edition (Docker CE) is a tool that allows users to
-create “containers” – lightweight, portable modules within which
-applications can run. Just like with OS virtualization, multiple applications
-living in different containers can be running next to each other on the same
-container engine runtime. How is this useful for security practitioners?
-There are a few ways. Aside, from being a way to help better manage
-application deployment (always a good thing, and also valuable from a
-security point of view), it also can help make accessible other security tools
-that might have been overly complex to install and get running without it
-(in fact, you’ll see an example of this next). There’s not enough space in a
-short article like this one for a full background on how to use Docker to
-get maximum value in the shop but serve it to say that it’s a tool worth
-getting to know.
-
-OPENVAS
-
-Description of OpenVAS
-
-In the past, it was undecided that suggesting to educational
-institutions the OpenVAS open-source vulnerability scanner.
-Why? Not because it isn’t a great tool. In the contrary, it’s
-been one of the go-to options since it forked from Nessus
-back in the day. The reason with that being is because,
-historically, installing it and getting into an operational state
-can be complicated. Nowadays though, because of
-containerization environments like Docker (take a look at the
-previous slide), you can stand up a fully functional instance (or
-nearly so) with just one command. For those organizations
-that need to boost their vulnerability assessment capability in
-a touch (and who doesn’t?), using OpenVAS – particularly
-pre-packaged containers – is well within the reach of even
-those organizations with limited technical staff.
-
-
-NIPAP
-
-Description of NIPAP
-
-What do campuses have a lot of? IP address space. Keeping
-track of what IPs are associated with what URLs in DNS,
-what ranges are assigned to what pools in DHCP, what static
-addresses are assigned to what devices, and so on can be
-logistical nightmare when one is talking about a network
-landscape as complex, large, and fluid as a typical campus.
-Keeping track of this very critical for security as well as (of
-course) for technical management and operations purposes.
-Relatively simple to position and use, the open-source IP
-addresses management tool NIPAP (Neat IP Address Planner)
-can help bring order to the chaos by helping you keep track
-of what’s assigned where, and it can help with subnetting, and
-otherwise help replace the difficult Excel spreadsheets in use
-now in nonexistence of a planning tool for this purpose.
-
-
-
-INTRODUCTION
+INTRODUCTION – OWASP SECURITY TOOLS
 
 The OWASP’s (Open Web Application Security Project) operation is to help the world improve the security of its
 software. One of the best ways OWASP can do that to help Open-Source developers to improve the software they are
@@ -233,16 +300,6 @@ Static code quality tools
 
 
 
-
-FREE FOR OPEN-SOURCE TOOLS
-
-Tools that are free for open-source projects in each
-of the above categories are all listed one by one in
-the upcoming slides.
-
-
-
-
 SAST TOOLS
 
 OWASP already keeps a page of known SAST tools:
@@ -257,7 +314,6 @@ supports C/C++, C#, Ruby (beta), Java,
 JavaScript/TypeScript, Python, and Go (click this link
 https://codeql.github.com/docs/codeql-overview/sup
 ported-languages-and-frameworks/ for more info)
-
 
 
 
@@ -284,7 +340,6 @@ environments.
 
 
 
-
 IAST TOOLS
 
 IAST tools are normally pitched to analyze web
@@ -299,9 +354,9 @@ also .NET only.
 
 API web scanners
 
-For tools which are API specific users should refer to
-the OWASP community API security tools page.
-
+For tools which are API specific, it is recommended to
+refer to the OWASP community API security tools page
+as it will vary for each use case.
 
 
 
