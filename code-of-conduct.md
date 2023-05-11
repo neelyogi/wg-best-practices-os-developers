@@ -1,128 +1,280 @@
-# Contributor Covenant Code of Conduct
+Applicability of
+Open-Source
+Security tools for
+business domain
 
-## Our Pledge
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, religion, or sexual identity
-and orientation.
+Importance of Security
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+Cybersecurity is a crucial aspect of protecting businesses,
+organizations, and individuals
 
-## Our Standards
+This applies to all types of business and non-profit
+organizations
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+Businesses, organizations, and individuals need proper
+safeguards against cyber threats such as data breaches,
+malware attacks, and phishing scams and many more
 
-- Demonstrating empathy and kindness toward other people
-- Being respectful of differing opinions, viewpoints, and experiences
-- Giving and gracefully accepting constructive feedback
-- Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-- Focusing on what is best not just for us as individuals, but for the
-  overall community
+On average, statistics have it that 71.1 million people
+become victims of cybercrimes every year.
 
-Examples of unacceptable behavior include:
 
-- The use of sexualized language or imagery, and sexual attention or
-  advances of any kind
-- Trolling, insulting or derogatory comments, and personal or political attacks
-- Public or private harassment
-- Publishing others' private information, such as a physical or email
-  address, without their explicit permission
-- Other conduct which could reasonably be considered inappropriate in a
-  professional setting
 
-## Enforcement Responsibilities
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+Role of opensource security
+tools
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+Security is an integral part of any business
 
-## Scope
+Requires specialized tools and knowledge to ensure they
+are implemented correctly.
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+There are a wide variety of open-source tools and
+technologies available to help.
 
-## Enforcement
+Opensource solutions are very popular option due to their
+cost-effectiveness and flexibility.
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-[INSERT CONTACT METHOD].
-All complaints will be reviewed and investigated promptly and fairly.
+Opensource security tools go through a lot of scrutiny and
+validation by industry experts making them a popular
+choice.
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
 
-## Enforcement Guidelines
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
 
-### 1. Correction
+Security awareness - Get
+smarter, get safer
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+The very first best protection is imparting awareness and
+education about security.
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+Everyone in the organization needs to understand the
+importance of security at all levels
 
-### 2. Warning
+There is a need to promote proactivate, smart behavior in
+organizations in order to foster a security-conscious
+culture.
 
-**Community Impact**: A violation through a single incident or series
-of actions.
+There are several opensource security tools and
+resources available and suitable for individuals, Small and
+Medium Businesses, Schools/education institutions and
+non-profit organizations.
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or
-permanent ban.
 
-### 3. Temporary Ban
 
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
+Cyber Security Tools for Small
+and Medium Businesses
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+Small and medium business should consider
+adding security requirements as part of their
+products
 
-### 4. Permanent Ban
+If security is not considered, it can lead to
+vulnerabilities being exploited
 
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior, harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
+If the vulnerabilities are exploited, it can lead to
+losing customer trust and also pay penalties
 
-**Consequence**: A permanent ban from any sort of public interaction within
-the community.
+In addition to adding security as part of the product,
+they should always perform ongoing security
+testing to ensure they are always secure
 
-## Attribution
+Penetration testing and continuous security
+monitoring can help with ongoing security
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.0, available at
-<https://www.contributor-covenant.org/version/2/0/code_of_conduct.html>.
 
-Community Impact Guidelines were inspired by [Mozilla's code of conduct
-enforcement ladder](https://github.com/mozilla/diversity).
 
-[homepage]: https://www.contributor-covenant.org
 
-For answers to common questions about this code of conduct, see the FAQ at
-<https://www.contributor-covenant.org/faq>. Translations are available at
-<https://www.contributor-covenant.org/translations>.
+Recommended Opensource security tools for
+small and medium business
+
+Network scanning tools for network security
+
+Nmap, Wireshark, Jok3r, Legion
+
+Web server security tools for webserver security
+
+Zed Attack Proxy, Nikto, Wapiti, Wfuzz, W3af
+
+DB Security tools for protecting database
+
+SqlMap and NoSQLMap
+
+Code Scanning tools to check the quality of the code and checks of security issues before it is
+deployed into the server
+
+SonarQube, Horusec
+
+Vulnerability assessment tools for ongoing security testing
+
+OpenVas
+
+Intrusion for detection any anamolies.
+
+OSSEC, Wazuh (HIDS) and Snort, Suricata and Zeek (NIDS)
+
+Security monitoring and logging tools to detect
+
+Security Onion
+
+
+
+
+
+Cybersecurity for school and
+education institutions and non-profit
+
+Like any business, security is very important for schools and education
+institutions and non-profit organizations
+
+Along with protecting all other IT assets with network security and other tools
+education institutes need to protect the student information and their grades
+
+For non-profit, protecting user information is very critical
+
+Most of such information will be stored in Database. Hence database security is
+critical
+
+Even within the organization they need to protect the information only for people
+who need to know
+
+In security it is called access based on ‘need to know’ basis
+
+This is achieved by having proper access control
+
+
+
+
+
+Applicable security tools for
+education and non-profit
+
+Network scanning and security tools
+
+Nmap, Wireshark, Jok3r, Legion
+
+Web server security tools
+
+Zed Attack Proxy, Nikto, Wapiti, Wfuzz, W3af
+
+DB Security tools
+
+SqlMap and NoSQLMap
+
+Vulnerability assessment tools
+
+OpenVas
+
+Intrusion for detection any anomalies.
+
+OSSEC, Wazuh (HIDS) and Snort, Suricata and Zeek (NIDS)
+
+Security monitoring and logging tools
+
+Security Onion
+
+
+
+
+Additional resource on security
+tools for school and education
+institutions
+
+The K12 Security Information eXchange (K12
+SIX) is the only national non-profit
+organization solely dedicated to protecting the
+U.S. K-12 community—including school
+districts, charter schools, private schools, and
+regional and state education agencies—from
+emerging cybersecurity threats.
+
+It provides a list of resource library for security
+tools specifically targeted for colleges, and
+universities including brochures, banners and
+more.
+
+It provides a curated list of recent information
+and resources to help US public K-12 school
+leaders and policymakers' direct cybersecurity
+and relate issues.
+
+
+
+
+Extended list of Opensource
+cybersecurity tools
+
+Security is required for every business, small or big, profit
+or non-profit or educational institute.
+
+The specific business product may require some additional
+security with additional security tools
+
+Depending on the type of the business and their risk,
+organization and businesses can choose different set of
+opensource security tools
+
+The subsequent slides provide the extended list of
+open-source security tools
+
+
+
+
+
+Extended list of Opensource
+cybersecurity tools
+
+Network Security Monitoring: Zeek
+
+Network Mapper: NMAP
+
+AntiVirus: ClamAV
+
+Vulnerability Scanning: OpenVAS
+
+Incident response: TheHive
+
+Security Appliance: PFSense
+
+Endpoint Visibility: Osquery
+
+Packet capture and search: Arkime
+
+
+
+
+
+
+
+Tool list continued
+
+XDR and SIEM: Wazuh, Alien Vault Ossim
+
+Forensic and Incident Response: Velociraptor
+
+Threat Intelligence: MISP project
+
+Security Operating System: Kali Linux, Parrot
+
+Identity and access management: OpenIAM
+
+Malware analysis: Yara
+
+VPN: Wireguard
+
+HIDS: OSSEC
+
+
+
+Tool list continued
+
+IDS/IPS: Suricata
+
+Anti-phishing: Phish Report
+
+Log Management: Gray log
+
+DevOps: Trivy
+
+EDR: OpenEDR
